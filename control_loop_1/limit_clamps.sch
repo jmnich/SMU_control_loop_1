@@ -1362,7 +1362,7 @@ F 0 "RP4" H 2840 6991 50  0000 R CNN
 F 1 "10k" H 2840 6900 50  0000 R CNN
 F 2 "Potentiometer_THT:Potentiometer_Vishay_T73XW_Horizontal" H 2900 6900 50  0001 C CNN
 F 3 "https://pl.mouser.com/datasheet/2/427/t73-1764337.pdf" H 2900 6900 50  0001 C CNN
-F 4 "T73XW105KT20" H 2840 6809 50  0000 R CNN "MPN"
+F 4 "T73XW103KT20" H 2840 6809 50  0000 R CNN "MPN"
 	1    2900 6900
 	1    0    0    -1  
 $EndComp
@@ -1402,7 +1402,7 @@ F 0 "RP3" H 2840 5441 50  0000 R CNN
 F 1 "10k" H 2840 5350 50  0000 R CNN
 F 2 "Potentiometer_THT:Potentiometer_Vishay_T73XW_Horizontal" H 2900 5350 50  0001 C CNN
 F 3 "https://pl.mouser.com/datasheet/2/427/t73-1764337.pdf" H 2900 5350 50  0001 C CNN
-F 4 "T73XW105KT20" H 2840 5259 50  0000 R CNN "MPN"
+F 4 "T73XW103KT20" H 2840 5259 50  0000 R CNN "MPN"
 	1    2900 5350
 	1    0    0    -1  
 $EndComp
@@ -1442,7 +1442,7 @@ F 0 "RP2" H 2840 3791 50  0000 R CNN
 F 1 "10k" H 2840 3700 50  0000 R CNN
 F 2 "Potentiometer_THT:Potentiometer_Vishay_T73XW_Horizontal" H 2900 3700 50  0001 C CNN
 F 3 "https://pl.mouser.com/datasheet/2/427/t73-1764337.pdf" H 2900 3700 50  0001 C CNN
-F 4 "T73XW105KT20" H 2840 3609 50  0000 R CNN "MPN"
+F 4 "T73XW103KT20" H 2840 3609 50  0000 R CNN "MPN"
 	1    2900 3700
 	1    0    0    -1  
 $EndComp
@@ -1482,7 +1482,7 @@ F 0 "RP1" H 2840 2341 50  0000 R CNN
 F 1 "10k" H 2840 2250 50  0000 R CNN
 F 2 "Potentiometer_THT:Potentiometer_Vishay_T73XW_Horizontal" H 2900 2250 50  0001 C CNN
 F 3 "https://pl.mouser.com/datasheet/2/427/t73-1764337.pdf" H 2900 2250 50  0001 C CNN
-F 4 "T73XW105KT20" H 2840 2159 50  0000 R CNN "MPN"
+F 4 "T73XW103KT20" H 2840 2159 50  0000 R CNN "MPN"
 	1    2900 2250
 	1    0    0    -1  
 $EndComp
